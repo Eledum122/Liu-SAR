@@ -1,0 +1,1 @@
+R = 5000, 576 scenarios run, 21.76 hours, finished 2026-11-13 19:12:39
